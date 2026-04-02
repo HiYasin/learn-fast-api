@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 30,
+        "gender": "Male",
+        "email": "john.doe@example.com"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 28,
+        "gender": "Female",
+        "email": "jane.smith@example.com"
+    },
+    {
+        "id": 3,
+        "name": "Michael Brown",
+        "age": 35,
+        "gender": "Male",
+        "email": "michael.brown@example.com"
+    },
+    {
+        "id": 4,
+        "name": "Emily Johnson",
+        "age": 26,
+        "gender": "Female",
+        "email": "emily.johnson@example.com"
+    },
+    {
+        "id": 5,
+        "name": "David Lee",
+        "age": 40,
+        "gender": "Male",
+        "email": "david.lee@example.com"
+    },
+    {
+        "id": 6,
+        "name": "Sophia Martinez",
+        "age": 32,
+        "gender": "Female",
+        "email": "sophia.martinez@example.com"
+    },
+    {
+        "id": 7,
+        "name": "Chris Wilson",
+        "age": 29,
+        "gender": "Male",
+        "email": "chris.wilson@example.com"
+    },
+    {
+        "id": 8,
+        "name": "Olivia Davis",
+        "age": 27,
+        "gender": "Female",
+        "email": "olivia.davis@example.com"
+    },
+    {
+        "id": 9,
+        "name": "Daniel Kim",
+        "age": 33,
+        "gender": "Male",
+        "email": "daniel.kim@example.com"
+    },
+    {
+        "id": 10,
+        "name": "Ava Patel",
+        "age": 31,
+        "gender": "Female",
+        "email": "ava.patel@example.com"
+    },
+    {
+        "name": "Faisal",
+        "age": 30,
+        "gender": "Male",
+        "email": "faisal@gmail.com",
+        "id": 11
+    }
+]
