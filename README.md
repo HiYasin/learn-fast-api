@@ -20,7 +20,7 @@ This repository is ideal for:
 | Module | Focus | Description |
 |--------|----------------------|-------------|
 | 1️⃣ | **Introduction** | FastAPI basics, project setup, Basic HTTP methods, Basic validation with Path(), Query(), and Pydantic,  |
-| 2️⃣ | **Pydantic Models** | Data validation and serialization |
+| 2️⃣ | **Pydantic Models** | Data validation (Basic model, Field annotated & validator, Model validator, Computed field, Nested model ) and serialization |
 <!-- | 3️⃣ | **CRUD Operations** | Building RESTful APIs | -->
 <!-- | 4️⃣ | **Database Integration** | Connecting to SQL/NoSQL databases | -->
 <!-- | 5️⃣ | **Authentication** | JWT, OAuth2, and API key security | -->
