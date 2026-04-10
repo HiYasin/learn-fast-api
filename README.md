@@ -20,13 +20,12 @@ This repository is ideal for:
 | Module | Focus | Description |
 |--------|----------------------|-------------|
 | 1️⃣ | **Introduction** | FastAPI basics, project setup, Basic HTTP methods, Basic validation with Path(), Query(), and Pydantic,  |
-<!-- | 2️⃣ | **Path & Query Parameters** | Using Path(), Query(), and validation | -->
-<!-- | 3️⃣ | **Pydantic Models** | Data validation and serialization | -->
-<!-- | 4️⃣ | **CRUD Operations** | Building RESTful APIs | -->
-<!-- | 5️⃣ | **Database Integration** | Connecting to SQL/NoSQL databases | -->
-<!-- | 6️⃣ | **Authentication** | JWT, OAuth2, and API key security | -->
-<!-- | 7️⃣ | **Testing** | Writing and running tests with pytest | -->
-<!-- | 8️⃣ | **Deployment** | Docker, cloud deployment, and best practices | -->
+| 2️⃣ | **Pydantic Models** | Data validation and serialization |
+<!-- | 3️⃣ | **CRUD Operations** | Building RESTful APIs | -->
+<!-- | 4️⃣ | **Database Integration** | Connecting to SQL/NoSQL databases | -->
+<!-- | 5️⃣ | **Authentication** | JWT, OAuth2, and API key security | -->
+<!-- | 6️⃣ | **Testing** | Writing and running tests with pytest | -->
+<!-- | 7️⃣ | **Deployment** | Docker, cloud deployment, and best practices | -->
 
 ---
 
